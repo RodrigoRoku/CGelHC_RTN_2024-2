@@ -1,2 +1,13 @@
-# CGelHC_RTN_2024-2
-Repositorio para las practicas de laboratorio de computación gráfica,  semestre 2024-2.
+## Laboratorio de Computación Gráfica e Interacción Humano Computadora
+---
+Nombre: Rodrigo Tapia Navarro
+
+N° de Cuenta: 313044270 
+
+Grupo de Laboratorio: 02
+
+Grupo de Teoria: 06
+
+Semestre 2024-2
+
+
