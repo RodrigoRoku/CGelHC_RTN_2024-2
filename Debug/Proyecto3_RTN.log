@@ -1,0 +1,25 @@
+﻿  E03-313044270.cpp
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E03-313044270.cpp")
+  
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E03-313044270.cpp")
+  
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(29,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(224,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(266,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(266,32): warning C4244:         with
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(266,32): warning C4244:         [
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(266,32): warning C4244:             _Ty=GLfloat
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(266,32): warning C4244:         ]
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(268,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(268,32): warning C4244:         with
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(268,32): warning C4244:         [
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(268,32): warning C4244:             _Ty=GLfloat
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(268,32): warning C4244:         ]
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(318,46): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(343,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(343,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(384,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto3_RTN\Proyecto3_RTN\E03-313044270.cpp(386,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Proyecto3_RTN.vcxproj -> C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto1_RTN\Debug\Proyecto3_RTN.exe
