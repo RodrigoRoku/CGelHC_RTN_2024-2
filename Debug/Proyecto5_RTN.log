@@ -1,0 +1,12 @@
+﻿  practica5.cpp
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto5_RTN\Proyecto5_RTN\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica5.cpp")
+  
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto5_RTN\Proyecto5_RTN\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica5.cpp")
+  
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto5_RTN\Proyecto5_RTN\practica5.cpp(169,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto5_RTN\Proyecto5_RTN\practica5.cpp(171,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto5_RTN\Proyecto5_RTN\practica5.cpp(123,8): warning C4101: 'offset': variable local sin referencia
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Proyecto5_RTN.vcxproj -> C:\Users\Rodrigo\Documents\Visual Studio 2022\Compu Grafica\Proyecto1\Proyecto1_RTN\Debug\Proyecto5_RTN.exe
